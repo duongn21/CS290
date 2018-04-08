@@ -1,3 +1,3 @@
  CS290
- Web Development
+ Web Development.
  This is an initial setup.
