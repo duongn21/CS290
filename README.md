@@ -1,3 +1,3 @@
-# CS290
-# Web Development
-# This is an initial setup.
+ CS290
+ Web Development
+ This is an initial setup.
