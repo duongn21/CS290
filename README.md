@@ -1,2 +1,2 @@
- CS290_400
- Web Development.
+ CS290 Summer
+ Web Development
