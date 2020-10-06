@@ -1,2 +1,2 @@
- CS290 Fall 2019
+ CS290 Fall 2020
  Web Development
